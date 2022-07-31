@@ -1,4 +1,3 @@
-![00C230A2F2B895E5D52C336E1EBAE6CC](https://user-images.githubusercontent.com/57019607/182031229-e72815e6-bda8-468a-941a-c74c8aeef0b2.jpg)
 # 贪吃蛇
 
 ---
