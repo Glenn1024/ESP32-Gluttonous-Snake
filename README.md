@@ -1,3 +1,4 @@
+![00C230A2F2B895E5D52C336E1EBAE6CC](https://user-images.githubusercontent.com/57019607/182031229-e72815e6-bda8-468a-941a-c74c8aeef0b2.jpg)
 # 贪吃蛇
 
 ---
@@ -38,7 +39,7 @@ pin17 -- 屏幕CS
 
 pin5 -- 屏幕BLK
 
-![Uploading 00C230A2F2B895E5D52C336E1EBAE6CC.jpg…]()
+![00C230A2F2B895E5D52C336E1EBAE6CC](https://user-images.githubusercontent.com/57019607/182031238-6b5ce19c-b90c-48d7-bebc-51c2c7853733.jpg)
 
 ---
 
